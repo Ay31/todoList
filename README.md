@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # todolist
 
 ## Project setup
@@ -27,3 +28,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# todoList
+>>>>>>> b0af79a1423a0176e81330b236a7fd5f4cfda603
